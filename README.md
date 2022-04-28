@@ -4,7 +4,7 @@
 
 - 🇩 Aperfeiçoando conhecimentos em Backend
 - 🐍 Cada dia aprendo algo novo em Python
-- 🪅 Planos para 2022: Aprender mais e ter mais experiência na área
+- 🪅 Planos para 2022: Aprender mais e ter mais experiência 
 
 #### Conecte comigo:
 
